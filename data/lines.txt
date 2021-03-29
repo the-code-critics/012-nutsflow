@@ -1,3 +1,0 @@
-data\parrot.txt: 'ello  mister polly parrot! i've got a lovely fresh cuttle
-data\zen.txt: simple is better than complex
-data\zen.txt: complex is better than complicated
